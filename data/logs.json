@@ -1,0 +1,322 @@
+[
+    {
+        "user_id": 1,
+        "username": "admin",
+        "action": "product_added",
+        "details": "Added product: Panaflex ",
+        "ip_address": "::1",
+        "timestamp": "2025-12-24 23:25:37"
+    },
+    {
+        "user_id": 1,
+        "username": "admin",
+        "action": "product_added",
+        "details": "Added product: Panaflex ",
+        "ip_address": "::1",
+        "timestamp": "2025-12-24 23:27:20"
+    },
+    {
+        "user_id": 1,
+        "username": "admin",
+        "action": "product_added",
+        "details": "Added product: Panaflex ",
+        "ip_address": "::1",
+        "timestamp": "2025-12-24 23:36:06"
+    },
+    {
+        "user_id": 1,
+        "username": "admin",
+        "action": "product_updated",
+        "details": "Updated product ID: 1",
+        "ip_address": "::1",
+        "timestamp": "2025-12-24 23:36:12"
+    },
+    {
+        "user_id": 1,
+        "username": "admin",
+        "action": "product_updated",
+        "details": "Updated product ID: 1",
+        "ip_address": "::1",
+        "timestamp": "2025-12-24 23:36:43"
+    },
+    {
+        "user_id": 1,
+        "username": "admin",
+        "action": "expense_added",
+        "details": "Added expense: Fuel - Rs:1000",
+        "ip_address": "::1",
+        "timestamp": "2025-12-24 23:44:20"
+    },
+    {
+        "user_id": 1,
+        "username": "admin",
+        "action": "expense_updated",
+        "details": "Updated expense ID: 1766600060150",
+        "ip_address": "::1",
+        "timestamp": "2025-12-24 23:44:31"
+    },
+    {
+        "user_id": 1,
+        "username": "admin",
+        "action": "expense_updated",
+        "details": "Updated expense ID: 1766600060150",
+        "ip_address": "::1",
+        "timestamp": "2025-12-24 23:44:45"
+    },
+    {
+        "user_id": 1,
+        "username": "admin",
+        "action": "expense_updated",
+        "details": "Updated expense ID: 1766600060150",
+        "ip_address": "::1",
+        "timestamp": "2025-12-24 23:44:53"
+    },
+    {
+        "user_id": 1,
+        "username": "admin",
+        "action": "expense_added",
+        "details": "Added expense: marketing - Rs:10000",
+        "ip_address": "::1",
+        "timestamp": "2025-12-24 23:45:14"
+    },
+    {
+        "user_id": 1,
+        "username": "admin",
+        "action": "expense_added",
+        "details": "Added expense: Generator - Rs:1000",
+        "ip_address": "::1",
+        "timestamp": "2025-12-24 23:45:32"
+    },
+    {
+        "user_id": 1,
+        "username": "admin",
+        "action": "expense_updated",
+        "details": "Updated expense ID: 1766600114137",
+        "ip_address": "::1",
+        "timestamp": "2025-12-24 23:45:46"
+    },
+    {
+        "user_id": 1,
+        "username": "admin",
+        "action": "user_added",
+        "details": "Added user: Bilal_ahmed",
+        "ip_address": "::1",
+        "timestamp": "2025-12-24 23:46:39"
+    },
+    {
+        "user_id": 1,
+        "username": "admin",
+        "action": "logout",
+        "details": "User logged out: admin",
+        "ip_address": "::1",
+        "timestamp": "2025-12-24 23:46:41"
+    },
+    {
+        "user_id": 2,
+        "username": "Bilal_ahmed",
+        "action": "login",
+        "details": "User logged in: Bilal_ahmed",
+        "ip_address": "::1",
+        "timestamp": "2025-12-24 23:46:49"
+    },
+    {
+        "user_id": 2,
+        "username": "Bilal_ahmed",
+        "action": "work_added",
+        "details": "Added work #1766600234324 as submitted",
+        "ip_address": "::1",
+        "timestamp": "2025-12-24 23:47:14"
+    },
+    {
+        "user_id": 2,
+        "username": "Bilal_ahmed",
+        "action": "logout",
+        "details": "User logged out: Bilal_ahmed",
+        "ip_address": "::1",
+        "timestamp": "2025-12-25 00:57:30"
+    },
+    {
+        "user_id": 1,
+        "username": "admin",
+        "action": "login",
+        "details": "User logged in: admin",
+        "ip_address": "::1",
+        "timestamp": "2025-12-25 00:57:32"
+    },
+    {
+        "user_id": 1,
+        "username": "admin",
+        "action": "work_verified",
+        "details": "Verified work #1766600234324",
+        "ip_address": "::1",
+        "timestamp": "2025-12-25 00:57:36"
+    },
+    {
+        "user_id": 1,
+        "username": "admin",
+        "action": "user_updated",
+        "details": "Updated user: admin",
+        "ip_address": "::1",
+        "timestamp": "2025-12-25 01:14:22"
+    },
+    {
+        "user_id": 1,
+        "username": "admin",
+        "action": "password_reset",
+        "details": "Reset password for user: Bilal_ahmed",
+        "ip_address": "::1",
+        "timestamp": "2025-12-25 01:14:43"
+    },
+    {
+        "user_id": 1,
+        "username": "admin",
+        "action": "password_reset",
+        "details": "Reset password for user: Bilal_ahmed",
+        "ip_address": "::1",
+        "timestamp": "2025-12-25 01:14:53"
+    },
+    {
+        "user_id": 1,
+        "username": "admin",
+        "action": "user_updated",
+        "details": "Updated user: Bilal_ahmed",
+        "ip_address": "::1",
+        "timestamp": "2025-12-25 01:15:01"
+    },
+    {
+        "user_id": 1,
+        "username": "admin",
+        "action": "user_updated",
+        "details": "Updated user: Bilal_ahmed",
+        "ip_address": "::1",
+        "timestamp": "2025-12-25 01:15:07"
+    },
+    {
+        "user_id": 1,
+        "username": "admin",
+        "action": "user_updated",
+        "details": "Updated user: Bilal_ahmed",
+        "ip_address": "::1",
+        "timestamp": "2025-12-25 01:18:44"
+    },
+    {
+        "user_id": 1,
+        "username": "admin",
+        "action": "user_updated",
+        "details": "Updated user: Bilal_ahmed",
+        "ip_address": "::1",
+        "timestamp": "2025-12-25 01:18:52"
+    },
+    {
+        "user_id": 1,
+        "username": "admin",
+        "action": "user_updated",
+        "details": "Updated user: Bilal_ahmed",
+        "ip_address": "::1",
+        "timestamp": "2025-12-25 01:18:59"
+    },
+    {
+        "user_id": 1,
+        "username": "admin",
+        "action": "attendance_marked",
+        "details": "Marked attendance for 2025-12-25",
+        "ip_address": "::1",
+        "timestamp": "2025-12-25 01:19:14"
+    },
+    {
+        "user_id": 1,
+        "username": "admin",
+        "action": "logout",
+        "details": "User logged out: admin",
+        "ip_address": "::1",
+        "timestamp": "2025-12-25 01:20:28"
+    },
+    {
+        "user_id": 2,
+        "username": "Bilal_ahmed",
+        "action": "login",
+        "details": "User logged in: Bilal_ahmed",
+        "ip_address": "::1",
+        "timestamp": "2025-12-25 01:20:35"
+    },
+    {
+        "user_id": 2,
+        "username": "Bilal_ahmed",
+        "action": "attendance_marked",
+        "details": "Marked attendance for 2025-12-25",
+        "ip_address": "::1",
+        "timestamp": "2025-12-25 01:20:54"
+    },
+    {
+        "user_id": 2,
+        "username": "Bilal_ahmed",
+        "action": "work_added",
+        "details": "Added work #1766606875406 as submitted for customer: Haider",
+        "ip_address": "::1",
+        "timestamp": "2025-12-25 01:37:55"
+    },
+    {
+        "user_id": 2,
+        "username": "Bilal_ahmed",
+        "action": "logout",
+        "details": "User logged out: Bilal_ahmed",
+        "ip_address": "::1",
+        "timestamp": "2025-12-25 01:38:09"
+    },
+    {
+        "user_id": 1,
+        "username": "admin",
+        "action": "login",
+        "details": "User logged in: admin",
+        "ip_address": "::1",
+        "timestamp": "2025-12-25 01:38:11"
+    },
+    {
+        "user_id": 1,
+        "username": "admin",
+        "action": "work_verified",
+        "details": "Verified work #1766606875406",
+        "ip_address": "::1",
+        "timestamp": "2025-12-25 01:38:17"
+    },
+    {
+        "user_id": 1,
+        "username": "admin",
+        "action": "expense_updated",
+        "details": "Updated expense ID: 1766600114137",
+        "ip_address": "::1",
+        "timestamp": "2025-12-25 01:39:06"
+    },
+    {
+        "user_id": 1,
+        "username": "admin",
+        "action": "work_added",
+        "details": "Added work #1766610257182 as submitted for customer: 465",
+        "ip_address": "::1",
+        "timestamp": "2025-12-25 02:34:17"
+    },
+    {
+        "user_id": 1,
+        "username": "admin",
+        "action": "work_verified",
+        "details": "Verified work #1766610257182",
+        "ip_address": "::1",
+        "timestamp": "2025-12-25 02:34:24"
+    },
+    {
+        "user_id": 1,
+        "username": "admin",
+        "action": "work_added",
+        "details": "Added work #1766610489445 as submitted for customer: 465",
+        "ip_address": "::1",
+        "timestamp": "2025-12-25 02:38:09"
+    },
+    {
+        "user_id": 1,
+        "username": "admin",
+        "action": "work_verified",
+        "details": "Verified work #1766610489445",
+        "ip_address": "::1",
+        "timestamp": "2025-12-25 02:38:14"
+    }
+]

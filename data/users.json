@@ -1,0 +1,26 @@
+{
+    "admin": {
+        "id": 1,
+        "username": "admin",
+        "password": "$2y$12$CfZVfJvJRjpyragQc94x.u3nNB7oORowY0vli7t33nRBOLEmSCYKm",
+        "full_name": "Boss",
+        "role": "boss",
+        "created_at": "2025-12-24 23:24:00",
+        "is_active": true,
+        "updated_at": "2025-12-25 01:14:22",
+        "updated_by": "admin"
+    },
+    "Bilal_ahmed": {
+        "id": 2,
+        "username": "Bilal_ahmed",
+        "password": "$2y$12$.1ld.YrrRbWSowIMAeuOveqsoU8yjF722H9Pc6auFQZSKLowp5oUC",
+        "full_name": "Bilal Ahmed",
+        "role": "user",
+        "created_at": "2025-12-24 23:46:39",
+        "is_active": true,
+        "password_reset_at": "2025-12-25 01:14:53",
+        "password_reset_by": "admin",
+        "updated_at": "2025-12-25 01:18:59",
+        "updated_by": "admin"
+    }
+}

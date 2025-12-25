@@ -1,0 +1,30 @@
+{
+    "1_2025-12-24": {
+        "user_id": 1,
+        "date": "2025-12-24",
+        "check_in_time": "23:24:07",
+        "status": "Present",
+        "marked_by": "system"
+    },
+    "2_2025-12-24": {
+        "user_id": 2,
+        "date": "2025-12-24",
+        "check_in_time": "23:47:02",
+        "status": "Present",
+        "marked_by": "system"
+    },
+    "1_2025-12-25": {
+        "user_id": 1,
+        "date": "2025-12-25",
+        "check_in_time": "01:19:14",
+        "status": "Present",
+        "marked_by": "admin"
+    },
+    "2_2025-12-25": {
+        "user_id": 2,
+        "date": "2025-12-25",
+        "check_in_time": "01:20:54",
+        "status": "Present",
+        "marked_by": "Bilal_ahmed"
+    }
+}
